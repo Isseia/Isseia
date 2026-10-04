@@ -38,6 +38,7 @@ I'm **Jhonas Mariano**, a data enthusiast who enjoys turning messy datasets into
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 **BI & Databases**
 
@@ -49,12 +50,19 @@ I'm **Jhonas Mariano**, a data enthusiast who enjoys turning messy datasets into
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+**Web & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
+| [📊 Retail Sales Analytics Dashboard](https://github.com/Isseia/retail-sales-dashboard) | Interactive sales dashboard with date-range, category, and channel filters, click-to-filter charts, and KPI trends versus the previous period, powered by a PySpark pipeline and FastAPI. [🔗 Live Demo](https://your-project.vercel.app) | PySpark, FastAPI, JavaScript, Plotly.js |
 | [🚗 Car Price Prediction & Performance Analysis](https://github.com/Isseia/car-price-prediction-and-performance-analysis) | Predicts vehicle market prices and evaluates performance drivers using regression models on key automotive features. | Python, Jupyter, Regression |
 | [🛒 Amazon Sales Analytics](https://github.com/Isseia/amazon-sales-analytics) | End-to-end BI project with SQL data cleaning, interactive dashboards, KPI tracking, and sales forecasting. | PostgreSQL, Power BI |
 | [💳 Credit Card Fraud Detection](https://github.com/Isseia/credit-card-fraud-detection) | Interpretable fraud detection pipeline built for highly imbalanced transaction data. | Python, Jupyter, ML |
