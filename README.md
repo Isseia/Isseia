@@ -62,7 +62,7 @@ I'm **Jhonas Mariano**, a data enthusiast who enjoys turning messy datasets into
 
 | Project | Description | Stack |
 |---|---|---|
-| [📊 Retail Sales Analytics Dashboard](https://github.com/Isseia/retail-sales-dashboard) | Interactive sales dashboard with date-range, category, and channel filters, click-to-filter charts, and KPI trends versus the previous period, powered by a PySpark pipeline and FastAPI. [🔗 Live Demo][(https://retail-sales-analysis-36jfeg5hn-jhonas.vercel.app/)] | PySpark, FastAPI, JavaScript, Plotly.js |
+| [📊 Retail Sales Analytics Dashboard](https://github.com/Isseia/retail-sales-dashboard) | Interactive sales dashboard with date-range, category, and channel filters, click-to-filter charts, and KPI trends versus the previous period, powered by a PySpark pipeline and FastAPI. [🔗 Live Demo](https://retail-sales-analysis-36jfeg5hn-jhonas.vercel.app/) | PySpark, FastAPI, JavaScript, Plotly.js |
 | [🚗 Car Price Prediction & Performance Analysis](https://github.com/Isseia/car-price-prediction-and-performance-analysis) | Predicts vehicle market prices and evaluates performance drivers using regression models on key automotive features. | Python, Jupyter, Regression |
 | [🛒 Amazon Sales Analytics](https://github.com/Isseia/amazon-sales-analytics) | End-to-end BI project with SQL data cleaning, interactive dashboards, KPI tracking, and sales forecasting. | PostgreSQL, Power BI |
 | [💳 Credit Card Fraud Detection](https://github.com/Isseia/credit-card-fraud-detection) | Interpretable fraud detection pipeline built for highly imbalanced transaction data. | Python, Jupyter, ML |
